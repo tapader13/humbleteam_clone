@@ -1,0 +1,484 @@
+ gap-5
+ 
+""
+ 
+CardOne
+ 
+We helped this innovative Silicon Valley gig economy startup go from zero to MVP in 60 days
+ 
+Stoove
+ 
+Branding of Tinder’s sister app for the Black community. Everything from banners to bracelets
+ 
+Match.comMatch.com
+ 
+.comMatch
+ 
+{ delay: 1000 }
+ 
+ bg-slate-600
+ 
+align-middle
+ 
+justify-around
+ 
+className=' h-full'
+ 
+className='flex justify-center items-center'
+ 
+</div>
+ 
+ bg-black
+ 
+className='h-24 w-24'
+ 
+className='h-24 w-24'
+ 
+className='h-24 w-24'
+ 
+'h-24 w-24'
+ 
+className='h-24 w-24'
+ 
+  className='h-24 w-24'
+ 
+   className='h-24 w-24'
+ 
+../images/google1.png
+ 
+className='h-24 w-24'
+ 
+fgfd
+ 
+fgfd
+ 
+fgfd
+ 
+fgfd
+ 
+fgfd
+ 
+fdg
+ 
+sdfs
+ 
+</div>
+ 
+<div className='flex bg-red-300'>
+ 
+
+
+SwiperCore.use([autoplay]);
+ 
+import SwiperCore, { autoplay } from 'swiper';
+ 
+import 'swiper/css';
+import 'swiper/css/autoplay';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+ 
+, { Autoplay }
+ 
+
+// Install Swiper modules
+ 
+lassName='h-24 w-24'
+ 
+ <SwiperSlide>
+          <img className='h-24 w-24' src={'../images/rimac.svg'} alt='' />
+        </SwiperSlide>
+ 
+<SwiperSlide>
+          <img className='h-24 w-24' src={'../images/mckinsey.svg'} alt='' />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img className='h-24 w-24' src={'../images/seedstars.svg'} alt='' />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img className='h-24 w-24' src={'../images/google.svg'} alt='' />
+        </SwiperSlide>
+ 
+/500.svg
+ 
+: React.FC
+ 
+
+
+// Install Swiper modules
+SwiperCore.use([Autoplay, Loop]);
+ 
+
+import SwiperCore, { Autoplay, Loop } from 'swiper';
+ 
+import 'swiper/swiper-bundle.min.css';
+ 
+/500.svg
+ 
+Slide 1
+ 
+mport SwiperCore,  Autoplay,{  Loop } from 'swiper';
+SwiperCore.use([Autoplay, Loop]);
+ 
+, { Autoplay, Loop }
+ 
+hf
+ 
+hf
+ 
+LogoSlider
+ 
+
+                            borderColor: 'orange',
+ 
+750px
+ 
+line-clamp-1
+ 
+items-start
+ 
+<!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+ 
+</p>
+ 
+<p>
+ 
+ <p>
+                        {sliderData.map((item) => (
+                          <TabPanel value={item.id}>{item.list2}</TabPanel>
+                        ))}
+                      </p>
+                      <p>
+                        {sliderData.map((item) => (
+                          <TabPanel value={item.id}>{item.list3}</TabPanel>
+                        ))}
+                      </p>
+ 
+
+                <TabPanel value='2'>Item Two</TabPanel>
+                <TabPanel value='3'>Item Three</TabPanel>
+ 
+Item One
+ 
+  <Tab label='Item One' value='1' />
+                    <Tab label='Item Two' value='2' />
+                    <Tab label='Item Three' value='3' />
+ 
+'1'
+ 
+'Item One'
+ 
+center
+ 
+, marginInline: 'auto' 
+ 
+/branding.webp
+ 
+/branding.webp
+ 
+Room 3
+ 
+: sliderDataType[]
+ 
+absolute
+ 
+full
+ 
+bg-green-700
+ 
+absolute
+ 
+20
+ 
+-translate-y-80
+ 
+bottom-[400px]
+ 
+top
+ 
+ <p>hfj</p>
+ 
+ h-fit
+ 
+TabSection
+ 
+border-white
+ 
+border
+ 
+20
+ 
+ </div>
+ 
+<div className=' h-fit w-full'>
+ 
+[200px]
+ 
+h-[80vh]
+ 
+full
+ 
+100vh
+ 
+70%
+ 
+absolute
+ 
+absolute
+ 
+../video/herovideo.mp4
+ 
+/src/video/herovideo.mp4
+ 
+width={} 
+ 
+  <div className=' h-[1000px] w-[200px] bg-gray-700'>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia
+          laboriosam doloremque ipsam rerum sit similique, commodi, provident
+          tempore officia perferendis ea sequi quis, deleniti aperiam minus
+          accusamus animi voluptatibus? Fugiat reprehenderit quae illo quas
+          aspernatur cum nemo consectetur dicta praesentium voluptate iure
+          perferendis quod quam enim obcaecati ullam delectus veritatis dolor
+          ducimus, expedita voluptas? Vitae sapiente ea aut, molestias tempora
+          accusamus rerum totam soluta vel laboriosam in officiis dolores,
+          facilis neque quod cum sequi expedita. Quia amet, quae aliquam,
+          tempora accusantium quo ducimus nisi recusandae corrupti natus dicta
+          voluptatum minima rerum? Eius sit voluptates perspiciatis possimus
+          consectetur, vitae, dolor iure ipsa eum pariatur quam tempora optio
+          officia eligendi cumque at consequuntur doloribus. Ex, quaerat dolore
+          illum suscipit quis unde, libero enim nulla veniam adipisci recusandae
+          error eaque eligendi! Veritatis quidem neque totam inventore! Culpa
+          aliquid sit atque. Ipsum nemo, optio impedit incidunt quisquam
+          deserunt delectus minus odio explicabo dicta mollitia fuga ullam
+          aperiam. Adipisci, officia. Aliquid sint alias non eligendi voluptates
+          perspiciatis harum nesciunt fuga, dolores veniam vero obcaecati
+          laborum consequatur ab architecto assumenda sit accusamus saepe,
+          cupiditate tempore. Voluptate incidunt beatae reiciendis laborum,
+          possimus fuga dicta quam nesciunt sit odit iste placeat! Animi,
+          molestias quisquam. Cupiditate, quae assumenda deleniti aliquid
+          architecto ab qui earum ut, veniam dolorem veritatis quisquam ea
+          nesciunt nostrum natus enim quo eum unde nam eligendi praesentium
+          maxime, obcaecati repudiandae! Rem rerum consequuntur eveniet modi
+          sunt. Maxime vel error deserunt praesentium impedit dolorem iste
+          omnis. Magni rem iste magnam quisquam eos distinctio atque ipsum cum
+          fuga numquam consequatur corrupti eius nisi, hic explicabo in
+          praesentium enim voluptatum quis recusandae doloremque? Veritatis
+          facilis sit accusamus aspernatur nulla laborum, tenetur quos illum
+          nisi nam unde non, odio, consequatur deserunt. Quidem natus maiores
+          deleniti voluptate repudiandae in enim animi quas, doloremque facilis,
+          alias, qui dolor corporis perspiciatis debitis cumque?
+        </div>
+ 
+herovideo
+ 
+...</div>
+ 
+Hero
+ 
+ className={`h-16 w-full  z-20  ${
+          scroll ? 'text-black bg-white' : 'bg-black text-white'
+        }`}
+ 
+bg-black text-white
+ 
+fixed
+ 
+bg-transparent
+ 
+bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-30 rounded-md
+ 
+transition ease-in-out duration-500
+ 
+scroll
+ 
+className='fixed'
+ 
+fixed
+ 
+flex items-center
+ 
+md:hidden
+ 
+md:hidden
+ 
+${
+                theme === 'light' ? 'bg-black text-white' : 'bg-gray-400'
+              }
+ 
+`${
+                theme === 'light' ? 'bg-black text-white' : 'bg-gray-400'
+              } 
+ 
+${
+                theme === 'light' ? 'bg-black text-white' : 'bg-gray-400'
+              }
+ 
+`${
+                theme === 'light' ? 'bg-black text-white' : 'bg-gray-400'
+              }
+ 
+${
+                
+              }
+ 
+theme === 'light' ? 'bg-black text-white' : 'bg-gray-400'
+ 
+fixed
+ 
+hj
+ 
+<h1>h</h1>
+          <h1>hg</h1>
+          <h1>hg</h1>
+          <h1>hg</h1>
+          <h1>gh</h1>
+          <h1>gh</h1>
+          <h1>gh</h1>
+          <h1>hggh</h1>
+          <h1></h1>
+          <h1></h1>
+          <h1>hg</h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1>gh</h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+          <h1></h1>
+ 
+ <-1></-1>
+ 
+<div className=' h-[1000px]'>hg</div>
+ 
+condition
+ 
+ border-spacing-2
+ 
+bg-orange-600
+ 
+ <Link className='hover:text-orange-500'>Design trail</Link>
+            <Link className='hover:text-orange-500'>
+              For finitech <span>NEW!</span>
+            </Link>
+            <Link className='hover:text-orange-500'>Podcast</Link>
+            <Link className='hover:text-orange-500'>Shared secrets</Link>
+            <Link className='hover:text-orange-500'>Career</Link>
+ 
+features
+ 
+company
+ 
+'target'
+ 
+ Our work
+ 
+
+              onSetActive={this.handleSetActive}
+              onSetInactive={this.handleSetInactive}
+ 
+justify-items-center
+ 
+Navvar
+ 
+hj
+ 
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+ 
+<div>
+        <a href='https://vitejs.dev' target='_blank'>
+          <img src={viteLogo} className='logo' alt='Vite logo' />
+        </a>
+        <a href='https://react.dev' target='_blank'>
+          <img src={reactLogo} className='logo react' alt='React logo' />
+        </a>
+      </div>
+      <h1>Vite + React</h1>
+      <div className='card'>
+        <button onClick={() => setCount((count) => count + 1)}>
+          count is {count}
+        </button>
+        <p>
+          Edit <code>src/App.tsx</code> and save to test HMR
+        </p>
+      </div>
+      <p className='read-the-docs'>
+        Click on the Vite and React logos to learn more
+      </p>
+ 
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+ 
