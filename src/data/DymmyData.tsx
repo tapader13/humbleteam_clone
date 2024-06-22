@@ -30,9 +30,9 @@ export const navbarData = [
     link: 'career',
   },
 ];
-import image1 from '../../static/images/branding.webp';
-import image2 from '../../static/images/design.webp';
-import image3 from '../../static/images/launch.webp';
+import image1 from '/static/images/branding.webp';
+import image2 from '/static/images/design.webp';
+import image3 from '/static/images/launch.webp';
 
 export const sliderData = [
   {
@@ -68,12 +68,12 @@ export const sliderData = [
     img: image3,
   },
 ];
-import cimg1 from '../../static/images/card1.jpg';
-import cimg2 from '../../static/images/card2.jpg';
-import cimg3 from '../../static/images/card3.jpg';
-import icon1 from '../../static/images/icon1.svg';
-import icon2 from '../../static/images/icon2.svg';
-import icon3 from '../../static/images/icon3.svg';
+import cimg1 from '/static/images/card1.jpg';
+import cimg2 from '/static/images/card2.jpg';
+import cimg3 from '/static/images/card3.jpg';
+import icon1 from '/static/images/icon1.svg';
+import icon2 from '/static/images/icon2.svg';
+import icon3 from '/static/images/icon3.svg';
 
 export const CardData1 = [
   {
@@ -104,8 +104,8 @@ export const CardData1 = [
     icon: icon3,
   },
 ];
-import image10 from '../../static/images/logo10.svg';
-import image11 from '../../static/images/logo11.svg';
+import image10 from '/static/images/logo10.svg';
+import image11 from '/static/images/logo11.svg';
 
 export const sliderData2 = [
   {
